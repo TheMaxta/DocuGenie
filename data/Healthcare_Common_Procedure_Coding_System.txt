@@ -1,0 +1,29 @@
+The Healthcare Common Procedure Coding System (HCPCS, often pronounced by its acronym as "hick picks") is a set of health care procedure codes based on the American Medical Association's Current Procedural Terminology (CPT).
+
+
+== History ==
+The acronym HCPCS originally stood for HCFA Common Procedure Coding System, a medical billing process used by the Centers for Medicare and Medicaid Services (CMS). Prior to 2001, CMS was known as the Health Care Financing Administration (HCFA). HCPCS was established in 1978 to provide a standardized coding system for describing the specific items and services provided in the delivery of health care. Such coding is necessary for Medicare, Medicaid, and other health insurance programs to ensure that insurance claims are processed in an orderly and consistent manner. Initially, use of the codes was voluntary, but with the implementation of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) use of the HCPCS for transactions involving health care information became mandatory.
+
+
+== Levels of codes ==
+HCPCS includes three levels of codes:
+
+Level I consists of the American Medical Association's Current Procedural Terminology (CPT) and is numeric.
+Level II codes are alphanumeric and primarily include non-physician services such as ambulance services and prosthetic devices, and represent items and supplies and non-physician services, not covered by CPT-4 codes (Level I).
+Level III codes, also called local codes, were developed by state Medicaid agencies, Medicare contractors, and private insurers for use in specific programs and jurisdictions. The Health Insurance Portability and Accountability Act of 1996 (HIPAA) instructed CMS to adopt a standard coding systems for reporting medical transactions. The use of Level III codes was discontinued on December 31, 2003, in order to adhere to consistent coding standards.: 2  Level III codes were different from the modern CPT Category III codes, which were introduced in 2001 to code emerging technology.
+
+
+== See also ==
+Centers for Medicare and Medicaid Services
+Current Dental Terminology
+
+
+== References ==
+
+
+== External links ==
+Official site
+HCPCS Level II alphanumeric procedure and modifier codes
+NDC-HCPCS crosswalk data files
+HCPCS Level II Codes & Drug Pricing
+2020 HCPCS Level 2 codes

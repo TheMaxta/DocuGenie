@@ -1,0 +1,45 @@
+BIG LIST OF QUESTIOSN FOR WIKIBOT
+
+
+
+Comparative Policy and Legislation:
+- "How do the healthcare policies under the 'Patient Protection and Affordable Care Act' compare with those proposed in the 'Health Care Reform in the United States' article?"
+    Relevant Titles: Patient Protection and Affordable Care Act, Health care reform in the United States
+    
+- "What are the key differences in Medicaid expansion as described in the 'Medicaid' and 'Patient Protection and Affordable Care Act' articles?"
+    Relevant Titles: Medicaid, Patient Protection and Affordable Care Act
+    
+Healthcare Technology and Systems:
+- "What are the differences in the approach to electronic health records (EHR) between 'Cerner' and 'Epic Systems'?"
+    Relevant Titles: Cerner, Epic Systems
+    
+- "How do the telemedicine services described in 'Teladoc Health' compare with those of 'Amwell' in their Wikipedia articles?"
+    Relevant Titles: Teladoc Health, Amwell
+    
+Insurance Models:
+- "In what ways do the operational models of 'Health Maintenance Organization (HMO)' differ from those of 'Preferred Provider Organization (PPO)' as described on Wikipedia?"
+    Relevant Titles: Health Maintenance Organization, Preferred Provider Organization
+    
+Healthcare Impact:
+- "Compare the impact of the 'COVID-19 pandemic in the United States' on healthcare delivery to the changes discussed in 'Telemedicine'."
+    Relevant Titles: COVID-19 pandemic in the United States, Telemedicine
+    
+Healthcare Coding and Standards:
+- "How do the coding systems 'International Classification of Diseases (ICD)' and 'Current Procedural Terminology (CPT)' complement each other in healthcare claims processing, according to their Wikipedia articles?"
+    Relevant Titles: International Classification of Diseases, Current Procedural Terminology
+    
+- "What are the key differences between the 'Health Insurance Portability and Accountability Act (HIPAA)' and 'Health Level 7 (HL7)' standards as outlined on Wikipedia, particularly in the context of data exchange in healthcare claims processing?"
+    Relevant Titles: Health Insurance Portability and Accountability Act, HL7
+    
+Healthcare Claims and Auditing:
+- "Explain how 'Electronic Data Interchange (EDI) in Healthcare' facilitates the claims processing workflow, based on its Wikipedia article, and compare it to traditional paper-based processes."
+    Relevant Titles: Electronic Data Interchange
+    
+- "What are the objectives and methodologies of a 'Medical Audit' as described in its Wikipedia article, and how does it relate to quality control in healthcare claims processing?"
+    Relevant Titles: Clinical audit
+    
+Value-Based Care:
+- "According to Wikipedia, what impact does 'Value-Based Healthcare' have on healthcare claims processing, and how does it differ from fee-for-service models?"
+    Relevant Titles: Value-based healthcare
+
+

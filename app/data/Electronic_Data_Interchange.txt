@@ -1,0 +1,31 @@
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐6bfb5d9c76‐6bl2b
+Cached time: 20240325151944
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [is‐preview]
+CPU time usage: 0.056 seconds
+Real time usage: 0.081 seconds
+Preprocessor visited node count: 136/1000000
+Post‐expand include size: 12970/2097152 bytes
+Template argument size: 4656/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1653/5000000 bytes
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 776079/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--><!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.655      1 -total
+100.00%   70.655      1 Template:Redirect_category_shell
+ 97.03%   68.559      1 Template:Mbox
+ 16.09%   11.371      1 Template:R_from_other_capitalisation
+ 12.74%    9.003      2 Template:Redirect_template
+  5.47%    3.864      1 Template:R_from_move
+  4.42%    3.120      2 Template:Tl
+  3.27%    2.313      1 Template:Talk_other
+  2.48%    1.755      1 Template:R_from_move/except
+-->
