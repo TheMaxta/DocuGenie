@@ -19,7 +19,11 @@ from llama_index.agent.openai import OpenAIAgent
 from llama_index.core.node_parser import SentenceSplitter
 from dotenv import load_dotenv
 import os
-# Function Definitions
+load_dotenv()
+api_key = os.getenv('API_KEY')
+
+
+
 
 def setup_environment(api_key):
     """Sets up necessary environment variables."""
@@ -208,9 +212,7 @@ def initialize_top_agent(obj_index):
 
 def main():
     # Setup environment and API key
-    load_dotenv()
-    api_key = os.getenv('API_KEY')
-
+    
     # Define or load your wiki titles
     wiki_titles = [
         "Healthcare in the United States",
