@@ -1,9 +1,15 @@
 from wiki_fetcher import (setup_environment, fetch_and_save_wiki_articles, load_wiki_docs, 
                           setup_llama_indices, initialize_top_agent, sanitize_title, 
                           define_tools_for_agents, create_object_index_and_retriever)
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 
 # Setup environment and API key
-api_key = "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"
+api_key = os.getenv('API_KEY')
+
 setup_environment(api_key)
 
 # Define or load your wiki titles
