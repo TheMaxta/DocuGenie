@@ -17,7 +17,8 @@ from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core import Settings, load_index_from_storage, StorageContext
 from llama_index.agent.openai import OpenAIAgent
 from llama_index.core.node_parser import SentenceSplitter
-
+from dotenv import load_dotenv
+import os
 # Function Definitions
 
 def setup_environment(api_key):
@@ -207,7 +208,10 @@ def initialize_top_agent(obj_index):
 
 def main():
     # Setup environment and API key
-    api_key = "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"
+    api_key = os.getenv('API_KEY')
+
+    load_dotenv()
+
     setup_environment(api_key)
 
     # Define or load your wiki titles

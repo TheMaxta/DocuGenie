@@ -1,6 +1,8 @@
 import os
 import openai
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from dotenv import load_dotenv
+import os
 
 def setup_environment(api_key):
     os.environ["OPENAI_API_KEY"] = api_key
@@ -30,7 +32,8 @@ def execute_query(query_engine, query):
     return query_engine.query(query)
 
 def main():
-    api_key = "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"
+    load_dotenv()
+    api_key = os.getenv('API_KEY')
     directory = "PDF"
     query = "What can you tell me about vision transformers in the research paper? What contributions were made?"
     
