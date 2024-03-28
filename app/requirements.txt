@@ -1,10 +1,10 @@
-fastapi==0.75.0
-uvicorn==0.17.6
+fastapi
+uvicorn
 requests
-llama-index==0.10.20
-llama-index-agent-openai==0.1.6
-llama-index-agent-openai-legacy==0.1.2
-llama-index-cli==0.1.11
+llama-index
+llama-index-agent-openai
+llama-index-agent-openai-legacy
+llama-index-cli
 llama-index-core==0.10.21.post1
 llama-index-embeddings-clip==0.1.4
 llama-index-embeddings-openai==0.1.7
