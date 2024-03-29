@@ -1,7 +1,24 @@
 from fastapi import FastAPI, Request
 from main import fetch_response
+from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI()
+ 
+origins = [
+    "http://localhost:7191",
+    "https://localhost:7191",
+    "https://localhost:7176"
+]
+ 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 
 ## EXAMPLE OF USE:
