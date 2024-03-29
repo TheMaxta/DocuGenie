@@ -124,6 +124,7 @@ On February 17, 2022, Governor Gavin Newsom announced a formal shift toward ende
 == Preparations made after previous outbreaks ==
 
 The United States has experienced pandemics and epidemics throughout its history, including the 1918 Spanish flu, the 1957 Asian flu, and the 1968 Hong Kong flu pandemics. In the most recent pandemic prior to COVID-19, the 2009 swine flu pandemic took the lives of more than 12,000 Americans and hospitalized another 270,000 over the course of approximately a year.According to the Global Health Security Index, an American-British assessment which ranks the health security capabilities in 195 countries, the U.S. was the "most prepared" nation in 2020.
+In September 2019, the Trump administration terminated United States Agency for International Development's PREDICT program, a $200 million epidemiological research program initiated in 2009 to provide early warning of pandemics abroad. The program trained scientists in sixty foreign laboratories to detect and respond to viruses that have the potential to cause pandemics. One such laboratory was the Wuhan lab that first identified the virus that causes COVID-19. After revival in April 2020, the program was given two 6-month extensions to help fight COVID-19 in the U.S. and other countries.
 
 
 == Statistics ==
